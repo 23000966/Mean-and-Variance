@@ -1,3 +1,4 @@
+# DATE:
 #  Mean and variance of a discrete  distribution
 
 
@@ -48,6 +49,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+# DEVELOPED BY : R SANTHOSH KUMAR
+# REFERENCE NO : 23000966
+
 ![image](https://github.com/23000966/Mean-and-Variance/assets/153983364/08f505c3-a3d1-447c-8d71-6a89a6f5c206)
 
 
